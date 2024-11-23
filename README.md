@@ -1,4 +1,3 @@
-# Design-Patterns-Facade
 Facade Design Pattern
 This repository demonstrates the Facade Design Pattern in software design. The Facade pattern simplifies complex subsystems by providing a unified interface. This example simulates a Home Theater System with subsystems such as a DVD player, projector, and sound system, all controlled through a single facade.
 
@@ -27,23 +26,16 @@ Python 3.x or higher
 How to Run
 Clone this repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/Hovsepyan1/Design-Patterns-Facade.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd Design-Patterns-Facade
 Run the Python script:
 
-bash
-Copy code
 python main.py
 You should see output simulating the actions taken by the HomeTheaterFacade class to start a movie.
 
 Example Output
-bash
 Copy code
 Get ready to watch a movie...
 DVD Player is ON
@@ -54,4 +46,5 @@ Volume set to 10
 Playing movie
 Contributing
 Feel free to fork the repository, submit issues, or create pull requests if you have improvements or enhancements for this code!
+
 
